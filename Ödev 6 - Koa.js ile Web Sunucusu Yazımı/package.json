@@ -1,0 +1,21 @@
+{
+  "name": "odev6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co-views": "^2.1.0",
+    "koa": "^2.13.3",
+    "koa-html-render": "^1.0.3",
+    "koa-pug": "^5.0.0",
+    "koa-router": "^10.1.1",
+    "pug": "^3.0.2",
+    "swig": "^1.4.2"
+  }
+}
